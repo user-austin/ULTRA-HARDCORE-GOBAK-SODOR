@@ -51,7 +51,7 @@
 
 ----------------------------------
 
-ITCH.IO INSTALLATION
+### ITCH.IO Installation
 
 1. Open https://evanekaputrajeremia.itch.io/ultra-hardcore-gobak-sodor !
 2. Download the APK!
