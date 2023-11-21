@@ -49,6 +49,14 @@
 1. Download the APK from Releases.
 2. Play!
 
+----------------------------------
+
+ITCH.IO INSTALLATION
+
+1. Open https://evanekaputrajeremia.itch.io/ultra-hardcore-gobak-sodor !
+2. Download the APK!
+3. Play!
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
