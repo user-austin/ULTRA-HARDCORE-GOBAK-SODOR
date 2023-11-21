@@ -46,7 +46,7 @@
 
 ### Installation
 
-1. Download the APK from Releases.
+1. Download the APK from RELEASES.
 2. Play!
 
 ----------------------------------
@@ -56,6 +56,18 @@
 1. Open https://evanekaputrajeremia.itch.io/ultra-hardcore-gobak-sodor !
 2. Download the APK!
 3. Play!
+
+----------------------------------
+
+### COMPUTER (ZIP) Installation
+
+1. Download the ZIP file from RELEASES.
+2. Extract the ZIP file.
+3. Depending on your computer (CISC) ISA family, select either x86 or x64
+4. Run the .EXE file
+5. Play!
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
