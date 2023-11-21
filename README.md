@@ -30,6 +30,7 @@
 
   <p align="center">
     MADE BY EVAN - YASYA - ERIGNA
+    CURRENT STATE : OPEN SOURCE.
     <br />
   </p>
 </div>
