@@ -72,7 +72,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Evan - evanekaputrajeremia@gmail.com
+Evan - evanekaputrajeremia@gmail.com // 2122.evanekaputra.jhs@globalprestasi.sch.id
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
